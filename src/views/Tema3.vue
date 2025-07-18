@@ -139,7 +139,7 @@
           ul.lista-ul--color
             li.mb-0.d-flex
               i.fas.fa-circle-check
-              p.mb-0 Los instrumentos comúnmente utilizados incluyen la canaleta Parshall, vertedero o canales, adecuados para flujo libre.
+              p.mb-0 Los instrumentos comúnmente utilizados incluyen la canaleta <em>Parshall</em>, vertedero o canales, adecuados para flujo libre.
             li.mb-0.d-flex
               i.fas.fa-circle-check
               p.mb-0 Las mediciones pueden realizarse mediante lectura directa con regleta o por medio de   sensores electrónicos o ultrasónicos.
@@ -181,14 +181,14 @@
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.5 Fórmulas por tipo de insumo
     
-    p.mb-5 Las fórmulas de cálculo para la dosificación de insumos en la potabilización de agua pueden variar dependiendo de las condiciones técnicas de operación de la planta y de los manuales propios de cada planta, a continuación, se presentan ejemplos para el cálculo de la dosificación de algunos coagulantes y desinfectantes.
+    p.mb-5 Las fórmulas de cálculo para la dosificación de insumos en la potabilización de agua pueden variar dependiendo de las condiciones técnicas de operación de la planta y de los manuales propios de cada planta; a continuación, se presentan ejemplos para el cálculo de la dosificación de algunos coagulantes y desinfectantes.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Dosificación hidroxicloruro de aluminio (PAC)
     
-    p.mb-5 Tomando como referenciar el manual de operación de la planta de agua potable del Centro de Gestión y Desarrollo Sostenible Surcolombiano (2019), cuando se aplica diluido, la fórmula para la dosificación cuando se tratan caudales bajos inferiores a (1 L/s) en plantas para pequeñas poblaciones, es:
+    p.mb-5 Tomando como referencia el manual de operación de la planta de agua potable del Centro de Gestión y Desarrollo Sostenible Surcolombiano (2019), cuando se aplica diluido, la fórmula para la dosificación cuando se tratan caudales bajos inferiores a (1 L/s) en plantas para pequeñas poblaciones, es:
 
     .bg-full-width.bg-color-13
       .px-4.p-md-5
@@ -199,9 +199,9 @@
         
         p Dónde:
 
-        p.mb-0 <b>Q</b>: Caudal de agua cruda en L/s
-        p.mb-0 <b>Dosis óptima</b>: Dosis calculada con la prueba de jarras expresada en mg/L
-        p <b>C</b>: Concentración de la solución expresada en mg/mL
+        p.mb-0 <b>Q</b>: caudal de agua cruda en L/s
+        p.mb-0 <b>Dosis óptima</b>: dosis calculada con la prueba de jarras expresada en mg/L
+        p <b>C</b>: concentración de la solución expresada en mg/mL
 
         p.mb-5 Cuando se aplica concentrado, la fórmula para dosificar es la siguiente:
 
@@ -212,9 +212,9 @@
 
         p Dónde:
 
-        p.mb-0 <b>Q</b>: Caudal de agua cruda en L/s
-        p.mb-0 <b>Dosis óptima</b>: Dosis calculada con la prueba de jarras expresada en mg/L
-        p <b>C</b>: Concentración de la solución expresada en mg/mL
+        p.mb-0 <b>Q</b>: caudal de agua cruda en L/s
+        p.mb-0 <b>Dosis óptima</b>: dosis calculada con la prueba de jarras expresada en mg/L
+        p <b>C</b>: concentración de la solución expresada en mg/mL
 
         p.mb-5 Concentración que hace referencia al contenido de aluminio del compuesto químico
 
@@ -232,9 +232,9 @@
 
     p Dónde:
 
-    p.mb-0 <b>Q</b>: Caudal de agua cruda en L/s
-    p.mb-0 <b>Dosis óptima</b>: Dosis calculada con la prueba de jarras expresada en mg/L
-    p.mb-0 <b>60</b>: Constante para convertir segundos a minutos
+    p.mb-0 <b>Q</b>: caudal de agua cruda en L/s
+    p.mb-0 <b>Dosis óptima</b>: dosis calculada con la prueba de jarras expresada en mg/L
+    p.mb-0 <b>60</b>: constante para convertir segundos a minutos
     p <b>1000</b>: factor de conversión para pasar mg a g.
 
     .bg-full-width.bg-color-13
@@ -252,9 +252,9 @@
         
         p Dónde:
 
-        p.mb-0 <b>Q</b>: Caudal de agua cruda en L/s
-        p.mb-0 <b>Dosis óptima</b>: Dosis de cloro a aplicar, en algunos casos en planta se busca que el agua tenga la máxima concentración permitida según resolución 2115 de 2007, que para el cloro residual es de 2 mg/L
-        p.mb-0 <b>454</b>: gramos que tiene una libra americana
+        p.mb-0 <b>Q</b>: caudal de agua cruda en L/s
+        p.mb-0 <b>Dosis óptima</b>: dosis de cloro a aplicar; en algunos casos en planta, se busca que el agua tenga la máxima concentración permitida según resolución 2115 de 2007, que para el cloro residual es de 2 mg/L.
+        p.mb-0 <b>454</b>: gramos que tiene una libra americana.
         p.mb-5 <b>1000</b>: factor de conversión para pasar g a mg.
 
         .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -270,9 +270,9 @@
     
     p Dónde:
 
-    p.mb-0 <b>Q</b>: Caudal de agua cruda en L/s
-    p.mb-0 <b>Dosis cloro</b>: Cantidad de cloro a aplicar. En algunos casos, se busca alcanzar la concentración máxima permitida de cloro residual en el agua tratada, según la Resolución 2115 de 2007, la cual establece un límite de 2 mg/L.
-    p.mb-5 <b>C</b>: Concentración de la solución de cloro, expresada en mg/mL.
+    p.mb-0 <b>Q</b>: caudal de agua cruda en L/s
+    p.mb-0 <b>Dosis cloro</b>: cantidad de cloro a aplicar; En algunos casos, se busca alcanzar la concentración máxima permitida de cloro residual en el agua tratada, según la Resolución 2115 de 2007, la cual establece un límite de 2 mg/L.
+    p.mb-5 <b>C</b>: concentración de la solución de cloro, expresada en mg/mL.
 
     .row.justify-content-center
       .col-lg-10

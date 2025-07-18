@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Dosificación de insumos químicos en potabilización del agua',
     Description:
-      'El componente formativo describe los aspectos técnicos relacionados con la dosificación de insumos químicos que son requeridos en los procesos de potabilización de agua, brindando al aprendiz las herramientas necesarias para que se realice de manera adecuada la dosificación de productos químicos garantizando la operación adecuada de las plantas de tratamiento de agua potable y el cumplimiento de aspectos normativos fundamentales para suministrar agua apta para el consumo humano.',
+      'El componente formativo describe los aspectos técnicos relacionados con la dosificación de insumos químicos que son requeridos en los procesos de potabilización de agua, brindando al aprendiz las herramientas necesarias para que se realice de manera adecuada la dosificación de productos químicos, garantizando la operación adecuada de las plantas de tratamiento de agua potable y el cumplimiento de aspectos normativos fundamentales para suministrar agua apta para el consumo humano.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

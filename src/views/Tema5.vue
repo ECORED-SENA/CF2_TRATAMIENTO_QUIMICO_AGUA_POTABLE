@@ -61,10 +61,10 @@
                 figure
                   img(src="@/assets/curso/tema5/2.svg", data-aos="zoom-in")
               .col-lg-7
-                p(data-aos="fade-left").mb-4.text-white Para conocer sobre los fundamentos de la innovación estratégica, lo invitamos a escuchar el siguiente podcast.
+                p(data-aos="fade-left").mb-4.text-white A continuación, se presenta un pódcast sobre las recomendaciones esenciales para el manejo seguro del cloro gaseoso en cilindros, enfocado en la prevención de riesgos y el cumplimiento de protocolos de seguridad industrial
         
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                  texto="Fundamentos de la innovación estratégica"
+                  texto="Recomendaciones para su manipulación"
                   tiempo
                   :audio="require('../assets/curso/podcast/podcast1.mp3')"
                 )
@@ -85,7 +85,7 @@
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.bg-color-5
             .p-4.text-center
-              p Respirador tipo full-face
+              p Respirador tipo full-face.
 
       .col-md-6.col-lg-3.mb-5.mb-lg-0(data-aos="flip-down")
         .tarjeta-avatar

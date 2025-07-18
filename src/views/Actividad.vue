@@ -59,7 +59,7 @@ export default {
         {
           id: 2,
           texto:
-            '¿Cuál es el porcentaje mínimo recomendado para la remoción de turbiedad y color en el tratamiento del agua??',
+            '¿Cuál es el porcentaje mínimo recomendado para la remoción de turbiedad y color en el tratamiento del agua?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -297,7 +297,7 @@ export default {
             {
               id: 'd',
               texto:
-                'Usar respirador full-face y equipo de protección completo.',
+                'Usar respirador <em> full-face </em> y equipo de protección completo.',
               esCorrecta: true,
             },
           ],

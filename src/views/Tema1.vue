@@ -22,7 +22,7 @@
         .row.align-items-center
           .col-md-7.mb-4.mb-md-0.order-lg-2
             h4 Mezcla rápida
-            p Permite dispersar rápidamente el coagulante en el flujo de agua. En esta etapa, se observa cierta turbulencia y se inicia la reacción del coagulante, con la formación de los primeros flocs.
+            p Permite dispersar rápidamente el coagulante en el flujo de agua. En esta etapa, se observa cierta turbulencia y se inicia la reacción del coagulante, con la formación de los primeros <em>flocs</em>.
         
           .col-md-5.order-lg-1
             figure
@@ -31,7 +31,7 @@
         .row.align-items-center
           .col-md-7.mb-4.mb-md-0.order-lg-2
             h4 Mezcla lenta
-            p Ocurre en las etapas posteriores de floculación y sedimentación. Se emplean velocidades bajas para favorecer la formación de flocs más grandes, lo cual facilita la clarificación y contribuye a la remoción del color.
+            p Ocurre en las etapas posteriores de floculación y sedimentación. Se emplean velocidades bajas para favorecer la formación de <em>flocs</em> y la reducción de la turbulencia. Esto permite la generación de <em>flocs</em> de tamaños menores y la formación de <em>flocs</em> más grandes, lo cual facilita la clarificación y contribuye a la remoción del color.
         
           .col-md-5.order-lg-1
             figure
@@ -178,13 +178,13 @@
         .bg-color-5.h-100
           .bg-color-4.px-4.px-lg-5.py-3
             h4.mb-0.text-center Líquido
-          p.mb-0.p-4 Agregar 0,75 mL de coagulante en un beaker y completar con agua hasta alcanzar 100 mL.
+          p.mb-0.p-4 Agregar 0,75 mL de coagulante en un <em>beaker</em> y completar con agua hasta alcanzar 100 mL.
 
       .col-lg-4
         .bg-color-7.h-100
           .bg-color-6.px-4.px-lg-5.py-3
             h4.mb-0.text-center Sólido
-          p.mb-0.p-4 Agregar 1 g de coagulante en un beaker y completar con agua hasta alcanzar 100 mL.
+          p.mb-0.p-4 Agregar 1 g de coagulante en un <em>beaker</em> y completar con agua hasta alcanzar 100 mL.
     
     .bg-color-8.mb-5
       .px-4.px-md-5.py-4
